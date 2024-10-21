@@ -1,0 +1,5 @@
+hoy es miercoles
+hoy es jueves
+hoy es viernes
+hoy es sabado
+hoy es domingo
